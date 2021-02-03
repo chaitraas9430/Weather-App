@@ -1,0 +1,29 @@
+.wrapper {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  margin: 20px 40px;
+  text-align: center;
+}
+.reports {
+  padding: 24px;
+  background: #bce5d0;
+  margin: 12px;
+  width: 23%;
+  box-sizing: border-box;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+.d-f {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card {
+  display: flex;
+}
+.reportVal {
+  padding-left: 7px;
+}
+.date {
+  border-bottom: 2px solid #000;
+  padding-bottom: 2px;
+  margin-bottom: 10px;
+  text-align: left;
+}
